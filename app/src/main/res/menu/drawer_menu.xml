@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group >
+        <item
+            android:id="@+id/drawer_change"
+            android:checkable="true"
+            android:icon="@drawable/drawer_change"
+            android:title="@string/drawer_change" />
+
+        <item
+            android:id="@+id/drawer_about"
+            android:checkable="true"
+            android:icon="@drawable/drawer_about"
+            android:title="@string/drawer_about" />
+
+    </group>
+
+</menu>

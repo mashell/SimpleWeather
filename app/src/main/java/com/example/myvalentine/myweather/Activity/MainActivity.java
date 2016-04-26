@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private SwipeRefreshLayout refresh;
     public LocationClient locationClient = null;
     public BDLocationListener bdListener = new MyLocationListener();
-    private Boolean firstUse;
+    private Boolean firstUse = false;
 
     private long exitTime = 0;
 

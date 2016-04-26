@@ -1,0 +1,44 @@
+#简天气-Android
+###前言
+--
+* 这是本人的第一款开源项目，由于开发经验不足，代码写的很烂也很繁杂，但本着分享的目的还是决定开源，磕磕碰碰很多，终于还是完成了基本功能，可以算上1.0版本了，所以上线了,以后也会继续更新新功能与修复bug，欢迎大家提意见
+* 素材来源于网络，若有侵权请联系删除
+
+
+###介绍
+--
+简天气是一款单纯的看天气软件，无任何流氓气息，欢迎大家使用
+
+
+
+###版本更新及下载
+--
+[Fir.im](http://fir.im/mv1u)
+
+其他商城审核中，后续更新其他下载地址
+
+###项目
+--
+####技术支持
+* 天气数据 [和天气](http://www.heweather.com)
+* 定位服务 百度定位
+
+####开源技术
+* okhttp
+
+###运行环境
+--
+* minSdkVersion 14
+* AndroidStudio version 2.0
+* Gradle version 2.0.0
+
+###存在问题
+--
+* recyclerview点击切换fragment处，直接替换没效果，只能手动强制隐藏recyclerview，解决中
+
+###应用截图
+<img src="http://chuantu.biz/t3/23/1461650613x3738746583.jpg" width="200"/> 
+<img src="http://chuantu.biz/t3/23/1461649288x3738746583.png" width="200"/>
+<img src="http://chuantu.biz/t3/23/1461649677x3738746571.png" width="200"/>
+<img src="http://chuantu.biz/t3/23/1461649699x3738746571.png" width="200"/>
+<img src="http://chuantu.biz/t3/23/1461649718x3738746571.png" width="200"/>

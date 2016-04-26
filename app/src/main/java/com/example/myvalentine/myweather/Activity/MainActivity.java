@@ -269,6 +269,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 fragmentTransaction.replace(R.id.sug_fragment, suggestionFragment);
                 fragmentTransaction.commit();
                 re_suggestion.setVisibility(View.GONE);
+
             }
             break;
 
@@ -382,7 +383,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 Handler handler = MainActivity.activity.getHandler();
                 handler.sendMessage(message);
             }
-
     }
 
     public void onOffsetChanged(AppBarLayout appBarLayout, int i) {
@@ -413,4 +413,5 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             super.onBackPressed();
         }
     }
+
 }

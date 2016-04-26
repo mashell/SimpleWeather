@@ -23,8 +23,6 @@ bin/
 gen/
 
 
-
-
 # Windows thumbnail db
 Thumbs.db
 
@@ -36,8 +34,6 @@ Thumbs.db
 # Eclipse project files
 .classpath
 .project
-
-
 
 
 # Signing files

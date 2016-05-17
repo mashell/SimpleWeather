@@ -37,8 +37,8 @@
 * recyclerview点击切换fragment处，直接替换没效果，只能手动强制隐藏recyclerview，解决中
 
 ###应用截图
-<img src="http://chuantu.biz/t3/23/1461650613x3738746583.jpg" width="200"/> 
-<img src="http://chuantu.biz/t3/23/1461649288x3738746583.png" width="200"/>
-<img src="http://chuantu.biz/t3/23/1461649677x3738746571.png" width="200"/>
-<img src="http://chuantu.biz/t3/23/1461649699x3738746571.png" width="200"/>
-<img src="http://chuantu.biz/t3/23/1461649718x3738746571.png" width="200"/>
+<img src="http://img2.ph.126.net/lX1CXbTzzicssl2Q05DNaA==/1626080940559673360.jpg" width="200"/> 
+<img src="http://img1.ph.126.net/HnQyaKn6svNXPqvBZjJz-A==/4835177150036339749.jpg" width="200"/>
+<img src="http://img2.ph.126.net/kFpYEDr0MOjrJYNSDofgKA==/4859102523057383678.jpg" width="200"/>
+<img src="http://img2.ph.126.net/f5HcaeJWNcxWe246a7VLkw==/6598250642206707527.jpg" width="200"/>
+<img src="http://img0.ph.126.net/7Ruw_JnUWHdDFC7ugCnDPw==/1157988054289058403.jpg" width="200"/>
